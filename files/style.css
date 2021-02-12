@@ -13,12 +13,6 @@ html {
   scroll-behavior: smooth;
 }
 
-.anchor {
-  display:block;
-    padding-top:50px;
-    margin-top:-50px;
-}
-
 
 .topleft {
   z-index: 1000;
@@ -168,7 +162,7 @@ top:8%;
 
 
 
-#project_1 {
+#botheggs{
   padding-top:50px;
 width:100%;
 position: relative;
@@ -178,7 +172,7 @@ display:flex;
      flex-wrap: wrap;
 
 }
-#project_2 {
+#Загадки {
     padding-top:50px;
 width:100%;
 position: relative;
@@ -186,7 +180,7 @@ margin:0 auto;
 align-content: middle;
    vertical-align: middle;
 }
-#project_3 {
+#home {
    padding-top:50px;
 width:100%;
 position: relative;
@@ -194,7 +188,7 @@ margin:0;
 display:flex;
      flex-wrap: wrap;
 }
-#project_4 {
+#oranges {
      padding-top:50px;
 width:100%;
 position: relative;
@@ -202,7 +196,7 @@ margin:0 auto;
 }
 
 
-#project_5 {
+#momo {
 padding-top:50px;
 width:100%;
 position: relative;
@@ -211,19 +205,19 @@ display:flex;
 flex-wrap: wrap;
 
 }
-#project_6 {
+#irreversible {
 padding-top:50px;
 width:100%;
 position: relative;
 margin:0;
 }
-#project_7 {
+#pantone {
   padding-top:50px;
 width:100%;
 position: relative;
 margin:0;
 }
-#project_8 {
+#roots {
   padding-top:50px;
 width:100%;
 position: relative;
@@ -596,31 +590,30 @@ margin:0;
 
 
 
-#project_1 {
+#botheggs {
   padding-top:50px;
 }
-#project_2 {
+#Загадки {
     padding-top:0;
 }
-#project_3 {
+#home {
    padding-top:0;
 }
-#project_4 {
+#oranges {
      padding-top:0;
 }
 
-
-#project_5 {
+#momo {
 padding-top:0;
 
 }
-#project_6 {
+#irreversible {
 padding-top:0;
 }
-#project_7 {
+#pantone {
   padding-top:0;
 }
-#project_8 {
+#roots {
   padding-top:0;
 
 }
